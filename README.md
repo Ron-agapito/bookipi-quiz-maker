@@ -19,7 +19,7 @@ A simple and customizable quiz maker application.
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/bookipi-quiz-maker.git
+git clone https://github.com/Ron-agapito/bookipi-quiz-maker.git
 cd bookipi-quiz-maker
 npm install
 cp .env.example .env
